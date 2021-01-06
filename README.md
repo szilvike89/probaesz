@@ -1,3 +1,3 @@
 # probaesz
 # hozzairtam valamit
-# ezt mar geprol irtam tegnap
+# ezt mar geprol irtam 
